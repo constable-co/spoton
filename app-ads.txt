@@ -1,0 +1,7 @@
+# app-ads.txt for Spot On (placeholder)
+#
+# Spot On shows no ads and has no ad network partners, so there are no seller records to list.
+# app-ads.txt is only read by ad networks. It is not needed for the App Store unless an ad network is
+# added later. If one is, put its line here, in the form:
+#   <ad network domain>, <publisher account id>, DIRECT|RESELLER, <certification authority id>
+# and host this file at the root of the developer website listed in App Store Connect.
