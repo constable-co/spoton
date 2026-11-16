@@ -1,7 +1,10 @@
-# app-ads.txt for Spot On (placeholder)
+# app-ads.txt for Spot On (Google AdMob).
 #
-# Spot On shows no ads and has no ad network partners, so there are no seller records to list.
-# app-ads.txt is only read by ad networks. It is not needed for the App Store unless an ad network is
-# added later. If one is, put its line here, in the form:
-#   <ad network domain>, <publisher account id>, DIRECT|RESELLER, <certification authority id>
-# and host this file at the root of the developer website listed in App Store Connect.
+# BEFORE PUBLISHING: replace pub-XXXXXXXXXXXXXXXX with your AdMob publisher id
+# (AdMob > Apps > View all apps > app-ads.txt shows the exact line to copy).
+#
+# This file must be served from the ROOT of the developer website given as the
+# Marketing URL in the App Store listing: https://constable-co.github.io/app-ads.txt
+# (a repository named constable-co.github.io). The copy at /spoton/app-ads.txt is
+# not read by AdMob. See docs/APP_STORE.md, "app-ads.txt".
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
