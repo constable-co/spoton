@@ -1,10 +1,1 @@
-# app-ads.txt for Spot On (Google AdMob).
-#
-# BEFORE PUBLISHING: replace pub-XXXXXXXXXXXXXXXX with your AdMob publisher id
-# (AdMob > Apps > View all apps > app-ads.txt shows the exact line to copy).
-#
-# This file must be served from the ROOT of the developer website given as the
-# Marketing URL in the App Store listing: https://constable-co.github.io/app-ads.txt
-# (a repository named constable-co.github.io). The copy at /spoton/app-ads.txt is
-# not read by AdMob. See docs/APP_STORE.md, "app-ads.txt".
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-2185232981424926, DIRECT, f08c47fec0942fa0
